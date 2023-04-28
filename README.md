@@ -16,6 +16,7 @@ Avoid Arrows coming towards you!
 Hit Gallons and destroy Arrows to earn points!
 
 
+
 Enjoy the Game! Thank you for downloading this game!!!
 
 Developer & Owner: Cem Tuğanlı
