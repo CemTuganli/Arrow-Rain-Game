@@ -1,7 +1,7 @@
 # Arrow-Rain-Game
 2D ASCII Single Player Shooter Command Prompt Game - C#    
 
-Disclaimer: DO NOT forget to load MS SQL DB files of this game to your SQL. It is inside the "ArrowRain.zip".
+Disclaimer: DO NOT forget to load MS SQL DB files of this game to your SQL. It is inside the "ArrowRain.zip" with ALL THE SOURCE CODE!.
 
 Arrow Rain!  
 
