@@ -15,9 +15,10 @@ Avoid Arrows coming towards you!
 
 Hit Gallons and destroy Arrows to earn points!
 
-IMPORTANT!
+IMPORTANT! :
 
 First File on the .zip list above does not require any sql database operations, it uses IO Stream File Operations and keeps its statistical data.txt files
+
 Second File on the .zip list above requires a ms sql server db setup and keeps its statistical data inside the sql database
 
 Enjoy the Game! Thank you for downloading this game!!!
